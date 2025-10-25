@@ -1,0 +1,101 @@
+﻿id_paciente,idade,sexo,tempo_espera_min,satisfacao_paciente,diagnostico,dispositivo_monitoramento,readmissao_30dias,tempo_internacao_dias,custo_atendimento
+1,69,Feminino,108,3,Infecção,Smartwatch,Não,4,4427.07
+2,32,Feminino,39,4,Gripe,Sem dispositivo,Sim,13,6865.09
+3,89,Masculino,105,4,Gripe,Oxímetro,Não,5,1637.62
+4,78,Feminino,179,3,Diabetes,Glicômetro,Sim,7,867.59
+5,38,Masculino,135,4,Diabetes,Sem dispositivo,Não,1,14458.4
+6,41,Feminino,5,3,Covid-19,Oxímetro,Sim,3,12621.71
+7,20,Masculino,9,2,Infecção,Glicômetro,Sim,2,10591.63
+8,39,Feminino,146,3,Infecção,Sem dispositivo,Sim,9,6429.82
+9,70,Feminino,107,3,Covid-19,Sem dispositivo,Não,10,3012.77
+10,19,Feminino,31,4,Diabetes,Sem dispositivo,Não,6,2768.34
+11,47,Masculino,141,4,Diabetes,Sem dispositivo,Não,10,4128.52
+12,55,Feminino,19,1,Gripe,Sem dispositivo,Sim,3,8463.79
+13,19,Feminino,94,1,Covid-19,Smartwatch,Sim,8,10861.64
+14,81,Feminino,46,2,Covid-19,Smartwatch,Não,14,10072.86
+15,77,Feminino,128,1,Gripe,Sem dispositivo,Sim,8,4559.04
+16,38,Feminino,67,3,Hipertensão,Glicômetro,Não,2,14345.55
+17,50,Masculino,100,4,Hipertensão,Smartwatch,Sim,6,11199.51
+18,75,Masculino,56,1,Hipertensão,Oxímetro,Sim,7,8538.13
+19,39,Masculino,100,1,Diabetes,Glicômetro,Sim,2,9369.95
+20,66,Masculino,136,2,Infecção,Glicômetro,Não,11,6584.2
+21,76,Masculino,155,2,Gripe,Glicômetro,Não,10,4092.1
+22,59,Feminino,147,3,Covid-19,Oxímetro,Não,2,5661.6
+23,77,Feminino,175,4,Infecção,Oxímetro,Não,10,11488.77
+24,32,Masculino,33,2,Covid-19,Sem dispositivo,Sim,1,708.71
+25,79,Feminino,40,1,Infecção,Sem dispositivo,Não,8,2183.05
+26,79,Masculino,17,4,Covid-19,Glicômetro,Sim,1,1167.04
+27,64,Feminino,164,4,Infecção,Glicômetro,Não,9,1090.57
+28,79,Feminino,75,1,Gripe,Smartwatch,Não,11,12904.18
+29,68,Feminino,90,2,Covid-19,Glicômetro,Sim,6,10703.04
+30,72,Feminino,32,1,Diabetes,Oxímetro,Não,7,7375.52
+31,81,Feminino,70,4,Hipertensão,Sem dispositivo,Sim,13,1918.6
+32,20,Feminino,174,5,Hipertensão,Smartwatch,Sim,10,7628.43
+33,68,Feminino,49,5,Hipertensão,Glicômetro,Sim,7,7365.34
+34,24,Masculino,66,3,Infecção,Sem dispositivo,Não,10,3011.43
+35,38,Feminino,138,1,Infecção,Smartwatch,Não,3,6790.85
+36,56,Masculino,32,1,Diabetes,Smartwatch,Sim,2,6278.32
+37,35,Masculino,32,3,Covid-19,Sem dispositivo,Não,9,9429.83
+38,21,Feminino,112,3,Diabetes,Glicômetro,Não,8,9708.86
+39,77,Feminino,48,3,Infecção,Glicômetro,Não,13,1156.91
+40,31,Masculino,88,4,Hipertensão,Smartwatch,Não,12,5931.88
+41,26,Feminino,34,1,Infecção,Sem dispositivo,Sim,10,9574.97
+42,70,Masculino,79,4,Gripe,Smartwatch,Sim,7,7795.48
+43,19,Feminino,132,3,Hipertensão,Smartwatch,Não,9,12919.1
+44,77,Feminino,96,1,Covid-19,Glicômetro,Sim,4,10051.06
+45,88,Masculino,133,4,Hipertensão,Oxímetro,Sim,13,2862.55
+46,61,Feminino,125,4,Hipertensão,Oxímetro,Sim,4,1523.25
+47,25,Masculino,31,3,Infecção,Smartwatch,Não,1,9815.08
+48,64,Feminino,125,1,Diabetes,Smartwatch,Sim,8,884.41
+49,52,Feminino,120,3,Hipertensão,Smartwatch,Não,14,8993.75
+50,53,Feminino,7,1,Gripe,Oxímetro,Não,14,14133.34
+51,67,Feminino,107,5,Infecção,Smartwatch,Sim,12,8844.38
+52,21,Feminino,159,2,Covid-19,Smartwatch,Sim,3,6128.46
+53,19,Masculino,141,2,Covid-19,Glicômetro,Não,7,9827.68
+54,23,Feminino,66,2,Hipertensão,Oxímetro,Sim,12,7144.67
+55,71,Masculino,169,3,Infecção,Glicômetro,Não,2,8411.44
+56,21,Masculino,55,5,Covid-19,Smartwatch,Sim,2,14151.24
+57,71,Feminino,176,1,Gripe,Smartwatch,Sim,7,6098.49
+58,80,Masculino,156,4,Gripe,Sem dispositivo,Não,6,14437.26
+59,35,Masculino,63,1,Covid-19,Glicômetro,Não,3,13627.58
+60,61,Feminino,122,4,Gripe,Smartwatch,Não,9,3338.97
+61,51,Feminino,164,1,Covid-19,Sem dispositivo,Sim,10,1505.74
+62,79,Masculino,100,5,Diabetes,Glicômetro,Não,14,1961.28
+63,31,Feminino,117,4,Infecção,Glicômetro,Sim,13,764.22
+64,65,Feminino,66,3,Covid-19,Glicômetro,Não,6,1869.42
+65,32,Masculino,56,1,Hipertensão,Sem dispositivo,Não,10,10403.6
+66,89,Feminino,16,1,Hipertensão,Oxímetro,Não,10,1532.24
+67,79,Feminino,43,4,Diabetes,Sem dispositivo,Sim,6,5125.15
+68,57,Masculino,134,3,Infecção,Smartwatch,Sim,1,12750.69
+69,70,Masculino,135,3,Diabetes,Oxímetro,Não,4,837.44
+70,41,Masculino,117,5,Infecção,Smartwatch,Sim,10,12309.79
+71,43,Feminino,105,3,Gripe,Sem dispositivo,Sim,6,4586.89
+72,77,Masculino,117,3,Diabetes,Oxímetro,Não,6,2213.39
+73,58,Masculino,85,3,Hipertensão,Sem dispositivo,Não,11,10602.69
+74,46,Feminino,117,2,Covid-19,Glicômetro,Sim,12,9619.67
+75,32,Feminino,6,5,Covid-19,Sem dispositivo,Sim,5,13223.34
+76,62,Feminino,134,1,Covid-19,Smartwatch,Não,1,11158.53
+77,82,Masculino,58,4,Diabetes,Sem dispositivo,Não,8,12150.47
+78,88,Feminino,91,1,Hipertensão,Smartwatch,Sim,5,4589.5
+79,26,Masculino,133,5,Covid-19,Glicômetro,Sim,12,3072.87
+80,18,Masculino,151,4,Hipertensão,Oxímetro,Sim,12,11383.91
+81,25,Masculino,130,5,Gripe,Sem dispositivo,Não,12,12199.1
+82,80,Masculino,134,3,Hipertensão,Sem dispositivo,Sim,5,14862.32
+83,28,Masculino,57,4,Infecção,Sem dispositivo,Sim,7,6482.96
+84,25,Masculino,176,3,Hipertensão,Glicômetro,Sim,4,5894.26
+85,52,Masculino,164,1,Diabetes,Sem dispositivo,Sim,6,11757.99
+86,52,Feminino,164,1,Covid-19,Glicômetro,Sim,13,5441.65
+87,50,Feminino,72,4,Diabetes,Sem dispositivo,Não,4,13995.98
+88,22,Masculino,127,4,Gripe,Sem dispositivo,Sim,14,12946.98
+89,58,Feminino,149,5,Infecção,Oxímetro,Sim,3,6720.41
+90,45,Masculino,42,5,Gripe,Oxímetro,Sim,7,11387.63
+91,24,Masculino,28,3,Diabetes,Glicômetro,Sim,8,11440.87
+92,89,Masculino,73,4,Covid-19,Smartwatch,Sim,4,1995.3
+93,29,Masculino,120,1,Hipertensão,Smartwatch,Não,13,13587.02
+94,51,Masculino,102,5,Hipertensão,Glicômetro,Sim,2,7826.16
+95,50,Feminino,143,5,Gripe,Oxímetro,Não,12,12483.63
+96,65,Feminino,148,1,Covid-19,Oxímetro,Não,10,5140.72
+97,40,Masculino,101,5,Diabetes,Oxímetro,Não,14,13485.09
+98,79,Feminino,128,3,Hipertensão,Oxímetro,Sim,3,6143.42
+99,54,Masculino,74,4,Gripe,Sem dispositivo,Sim,1,657.15
+100,61,Feminino,97,1,Diabetes,Sem dispositivo,Não,8,13628.04

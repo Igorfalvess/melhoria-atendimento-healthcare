@@ -20,6 +20,8 @@ O script principal (analise_predicao_readmissao_final.py) foi utilizado para ger
 
 *Parâmetros da Simulação (Nova Base N=100)*
 
+
+
 Parâmetro	Valor
 Total de Pacientes	100
 Idade	18 a 90 anos
@@ -27,6 +29,8 @@ Dias de Internação	1 a 30 dias
 Tempo de Espera	0.5 a 6.0 horas (Simulação em horas)
 Índice de Comorbidades	0 a 5
 <img width="480" height="171" alt="image" src="https://github.com/user-attachments/assets/84f4282d-8be0-4e3c-bf5e-12cb40cec27d" />
+
+
 
 
 **Etapa 2 – Modelagem Preditiva e Insights Acionáveis**
@@ -69,8 +73,9 @@ O projeto demonstra a viabilidade de transformar a HCS em um modelo de saúde pr
 * Melhoria do Cuidado: Oferecendo um atendimento mais seguro, eficiente e humano, focado na continuidade.
 
 
-===
+---
 
 Autor: Igor Ferreira Alves
+
 Curso: Engenharia da Computação — UNIFECAF (2025)
 

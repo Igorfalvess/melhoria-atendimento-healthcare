@@ -1,4 +1,5 @@
-Melhoria do Atendimento ao Paciente através da Análise de Dados na HealthCare Solutions
+**Melhoria do Atendimento ao Paciente através da Análise de Dados na HealthCare Solutions**
+
 **Foco Principal: Predição do Risco de Readmissão Hospitalar**
 
 Este projeto aplica as técnicas de Ciência de Dados e Machine Learning (Random Forest) para resolver um desafio crítico na HealthCare Solutions (HCS): a alta taxa de readmissão hospitalar em 30 dias. O objetivo é construir um modelo preditivo capaz de identificar, proativamente, os pacientes com maior risco de serem readmitidos antes mesmo da alta, permitindo à HCS otimizar recursos e adotar planos de cuidado pós-alta direcionados.
